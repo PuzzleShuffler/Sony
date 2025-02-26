@@ -1,3 +1,3 @@
 # Sony
 
-Predicting customer churn with XGBClassifier. Best viewed in `Sony - TargetEncoder.html` or `Sony.html`.
+Predicting customer churn with `XGBClassifier`. Report is within `Sony - TargetEncoder.ipynb` or `Sony.ipynb`.
